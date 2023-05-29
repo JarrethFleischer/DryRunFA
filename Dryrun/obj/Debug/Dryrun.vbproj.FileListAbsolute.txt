@@ -1,0 +1,13 @@
+C:\Users\P340\source\repos\Dryrun\Dryrun\bin\Debug\Dryrun.exe.config
+C:\Users\P340\source\repos\Dryrun\Dryrun\bin\Debug\Dryrun.exe
+C:\Users\P340\source\repos\Dryrun\Dryrun\bin\Debug\Dryrun.pdb
+C:\Users\P340\source\repos\Dryrun\Dryrun\bin\Debug\Dryrun.xml
+C:\Users\P340\source\repos\Dryrun\Dryrun\obj\Debug\Dryrun.vbproj.AssemblyReference.cache
+C:\Users\P340\source\repos\Dryrun\Dryrun\obj\Debug\Dryrun.vbproj.SuggestedBindingRedirects.cache
+C:\Users\P340\source\repos\Dryrun\Dryrun\obj\Debug\Dryrun.Form1.resources
+C:\Users\P340\source\repos\Dryrun\Dryrun\obj\Debug\Dryrun.Resources.resources
+C:\Users\P340\source\repos\Dryrun\Dryrun\obj\Debug\Dryrun.vbproj.GenerateResource.cache
+C:\Users\P340\source\repos\Dryrun\Dryrun\obj\Debug\Dryrun.vbproj.CoreCompileInputs.cache
+C:\Users\P340\source\repos\Dryrun\Dryrun\obj\Debug\Dryrun.exe
+C:\Users\P340\source\repos\Dryrun\Dryrun\obj\Debug\Dryrun.xml
+C:\Users\P340\source\repos\Dryrun\Dryrun\obj\Debug\Dryrun.pdb
